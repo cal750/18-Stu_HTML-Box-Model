@@ -1,0 +1,16 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  padding: 20px solid pink;
+  border: 40px inset violet;
+  margin: 10px solid blue;
+
+}
